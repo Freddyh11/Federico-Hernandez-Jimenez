@@ -1,2 +1,8 @@
 # Federico-Hernandez-Jimenez
-  -Hello! I am currently an undergrad at Oregon institute of technology undergoing a bachelors degree of science and majoring in software engineering of technology
+  -Hello! I am currently an undergrad at Oregon Institute of Technology undergoing a Bachelors Degree of Science and majoring in Software Engineering of Technology
+  
+  -C++
+  
+  -HTML
+ 
+ -CSS
