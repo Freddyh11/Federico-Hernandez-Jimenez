@@ -3,6 +3,6 @@
   
   -C++
   
-  -HTML
- 
- -CSS
+  -JS
+  
+  -Rust
